@@ -114,13 +114,33 @@ Types of debts:
 #### Liquidity
 It is essentially how easily an asset can be exchanged, a measure of the current market activity
 (If many people are trading a stock, you can easily sell that stock at any time you want)
-liquidity can be thought of as the rate of conversion of an asset into cash
+Liquidity can be thought of as the rate of conversion of an asset into cash
+Liquidity considers short term assets and liabilities
+`Short term means under one year`
+
 - Cash/Stocks are generally of high liquidity
 - Real Estate is low liquidity, harder to sell generally
-More liquidity = Good
+More liquidity is important
+
+#### liquidity ratios:
+These tell us about short term financial position of a company
+1. Current Ratio
+2. Quick Ratio
+3. Cash Ratio
+
+#### solvency ratios:
+These tell us about long term financial position of a company
+1. Debt ratio
+2. Debt to equity ratio
+3. Interest coverage ratio
+4. Debt service coverage ratio
 
 
-#### Solvency
+
+
+#### Solvency and Insolvency
+`If Net-Worth > 0 the solvency = true`
+`If NetWorth < 0 then Insolvency = true`
 
 
 
