@@ -1,4 +1,4 @@
-# finance
+# Finance with the Rebel!
 
 ### Stock Market Investment Jargons:
 
@@ -136,13 +136,9 @@ These tell us about long term financial position of a company
 4. Debt service coverage ratio
 
 
-
-
 #### Solvency and Insolvency
 `If Net-Worth > 0 the solvency = true`
 `If NetWorth < 0 then Insolvency = true`
-
-
 
 #### Market depth
 It shows the last 5 or 20 trades that happened on the stock, more the bids/offers, more is the liquidity
@@ -156,6 +152,16 @@ It shows the last 5 or 20 trades that happened on the stock, more the bids/offer
 T   Day: The day of trading a stock (first day) => Stock shows up on Positions (Intraday trading allowed)
 T+1 Day: The first day after trading a stock (second day) => Stock shows up in Holdings (Now Intraday is over)
 T+2 Day: The second day after trading a stock (third day) => Stock is now settled and will be delivered to the demat account.
+
+
+#### Patterns, Bearish, Bullish
+**Bullish**: A bull is powerful animal, and hence Bullish means that the stock is going up.
+**Bearish**: A bear is a weak animal, and hence Bearish means that the stock is going down.
+
+A buyer, when buys a stock, believes that the stock is bullish, that it's price will go up, hence buyers are said to be bullish.
+A seller, when sells a stock believes that the stock is bearish, that it's price will go down, hence sellers are said to be bearish.
+
+When people think a stock is bullish, they buy the stock, and are willing to pay a higher price for it, which in turn causes the stock to rise, but then people see the stock being very powerful, and they start reaping their profits, and start selling the stock, at there is a general vibe that the stock is bearish, so people start selling the stock. And then the cycle repeats itself, hence there is always a pattern of maxima and minima in the price of a stock
 
 
 
