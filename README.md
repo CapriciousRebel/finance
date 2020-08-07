@@ -164,4 +164,7 @@ A seller, when sells a stock believes that the stock is bearish, that it's price
 When people think a stock is bullish, they buy the stock, and are willing to pay a higher price for it, which in turn causes the stock to rise, but then people see the stock being very powerful, and they start reaping their profits, and start selling the stock, at there is a general vibe that the stock is bearish, so people start selling the stock. And then the cycle repeats itself, hence there is always a pattern of maxima and minima in the price of a stock
 
 
+#### Types of orders:
+**CNC**: Cash And Carry -> Buys a stock that can not be sold on the same day, it will send delivery of the stock in your demat account after T+2 days.
+**MIS**: Margin Intraday Squareoff -> Buys/Sells a stock which has to be sold/bought on the same day, if not sold/bought till 15:10 hrs, then the broker will do it for you (square off) at the current trading price.
 
