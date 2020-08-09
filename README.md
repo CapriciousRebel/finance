@@ -10,7 +10,7 @@ Shows us the "size" of the company.
 ```
 MarketCap / TotalNumberOfShares = Price of one Share
 ```
-
+---
 #### 2. SP (Share Price):
 - LTP (last traded price): The price paid for a the last share that was traded.
 - Opening price: The cost of one share when the stock market opened today
