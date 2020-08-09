@@ -1,17 +1,48 @@
 # Finance with the Rebel!
 
-### Stock Market Investment Jargons:
+## Stock Market Investment Jargons:
 
-#### Market Cap
-It is the total amount needed to buy all the stocks of a company, 'the cost of a company'.
+### Fundamental analysis:
+
+#### 1. Market Cap:
+It is the total amount needed to buy all the stocks of a company, 'the cost of a company'. 
+Shows us the "size" of the company.
 ```
-MarketCap/TotalNumberOfShares = Price of one Share
+MarketCap / TotalNumberOfShares = Price of one Share
 ```
 
-#### Share Price
-- LTP (last traded price): The price of one share right now
+#### 2. SP (Share Price):
+- LTP (last traded price): The price paid for a the last share that was traded.
 - Opening price: The cost of one share when the stock market opened today
 - Closing price: The cost one one share when the stock market closed today
+
+#### 3. EPS (Earning Per Share):
+It is the net profit divided by number of shares
+```
+EarningPerShare = NetProfit/NumberOfShares
+```
+
+#### 4. P/E (Price over earnings) ratio:
+It is the ratio of the price of a share divided by the earnings made from the share
+It is a measure of how much value people give to this share
+- High P/E ratio means that the share is overvalued
+- Low P/E ratio means that the share is undervalued
+```
+PERatio = SharePrice/EarningPerShare
+```
+#### 5. Valuation chart:
+A plot of the PERatio vs time.
+- If the current PERatio is at a maxima, that may mean that the share is being given too much value, so we may want to ask why that is, is it because of something good being done by the company? Will this value increase in the future? What happended in the past when the share was given a high value? Of course the value will fall, but when will it fall? We need some reading here to judge the comapany.
+- If the current PERatio is at a minima, that means that the share is being given a lower value, again the same question arises, "why?". Look at the history a bit, see if the company has recovered such drops well in the past. If it was able to recover well, then maybe that stock should be bought, it has a good chance of giving you better return value.
+
+But that is not enough to judge a company.
+
+#### 6. Profit growth chart:
+A plot of the growth in profit over a time (generally 1yr, 3yr, 5yr)
+- This chart tells us how the company's profit has grown over the years. Hence we get an idea of the EPS as well, which in turn gives us an idea of the PERatio and the valuation chart of the company.
+As the company keeps giving better and better profit growth, it increases the investors' confidence in the share and they give more value to it, in such a case, we see that `ProfitGrowth↑ -> EarningPerShare↑ -> SharePrice↑ -> Valuation↑ -> PERatio?` Because SP↑ and EPS↑ hence if PERatio increases in such a case, it means people believe in the share more, but if it doesn't, it may mean that people dont trust that share too much
+
+#### 5. 
 
 #### Percentage Change
 It is the percent change in the price of a share from it's previous day's closing price
