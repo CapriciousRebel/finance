@@ -1,4 +1,5 @@
 # Finance with the Rebel!
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXAYcazQt8HwPNBZ7eniqG8%2FFinance%3Fnode-id%3D14%253A2&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ## Stock Market Investment Jargons:
 
@@ -10,17 +11,20 @@ Shows us the "size" of the company.
 ```
 MarketCap / TotalNumberOfShares = Price of one Share
 ```
+
 ---
 #### 2. SP (Share Price):
 - LTP (last traded price): The price paid for a the last share that was traded.
 - Opening price: The cost of one share when the stock market opened today
 - Closing price: The cost one one share when the stock market closed today
+
 ---
 #### 3. EPS (Earning Per Share):
 It is the net profit divided by number of shares
 ```
 EarningPerShare = NetProfit/NumberOfShares
 ```
+
 ---
 #### 4. P/E (Price over earnings) ratio:
 It is the ratio of the price of a share divided by the earnings made from the share
@@ -30,13 +34,15 @@ It is a measure of how much value people give to this share
 ```
 PERatio = SharePrice/EarningPerShare
 ```
+
 ---
 #### 5. Valuation chart:
 A plot of the PERatio vs time.
 - If the current PERatio is at a maxima, that may mean that the share is being given too much value, so we may want to ask why that is, is it because of something good being done by the company? Will this value increase in the future? What happended in the past when the share was given a high value? Of course the value will fall, but when will it fall? We need some reading here to judge the comapany.
 - If the current PERatio is at a minima, that means that the share is being given a lower value, again the same question arises, "why?". Look at the history a bit, see if the company has recovered such drops well in the past. If it was able to recover well, then maybe that stock should be bought, it has a good chance of giving you better return value.
 
-But that is not enough to judge a company.
+But that is not enough to judge a company, it should be coupled with Profit Growth.
+
 ---
 #### 6. Profit growth chart:
 A plot of the growth in profit over a time (generally 1yr, 3yr, 5yr)
