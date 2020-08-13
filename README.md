@@ -4,7 +4,7 @@
 
 ### Fundamental analysis:
 
-#### 1. Market Cap:
+#### Market Cap:
 It is the total amount needed to buy all the stocks of a company, 'the cost of a company'. 
 Shows us the "size" of the company.
 ```
@@ -12,20 +12,32 @@ MarketCap / TotalNumberOfShares = Price of one Share
 ```
 
 ---
-#### 2. SP (Share Price):
+#### Enterprise Value:
+It is the actual value of a company. It can be negetive as well!
+```
+EnterpriseValue = MarketCap + Debt - Cash
+```
+
+---
+#### SP (Share Price):
 - LTP (last traded price): The price paid for a the last share that was traded.
 - Opening price: The cost of one share when the stock market opened today
 - Closing price: The cost one one share when the stock market closed today
 
 ---
-#### 3. EPS (Earning Per Share):
+#### EPS (Earning Per Share):
 It is the net profit divided by number of shares
 ```
 EarningPerShare = NetProfit/NumberOfShares
 ```
 
+--- 
+### Limited Companies:
+A company is said to be "limited" when all of it's debts and cash are belonging to the company as a seperate entity, and not to it's shareholders.
+So it's the company who pays it's loans, not it's shareholders.
+
 ---
-#### 4. P/E (Price over earnings) ratio:
+#### P/E (Price over earnings) ratio:
 It is the ratio of the price of a share divided by the earnings made from the share
 It is a measure of how much value people give to this share
 - High P/E ratio means that the share is overvalued
@@ -35,7 +47,7 @@ PERatio = SharePrice/EarningPerShare
 ```
 
 ---
-#### 5. Valuation chart:
+#### Valuation chart:
 A plot of the PERatio vs time.
 - If the current PERatio is at a maxima, that may mean that the share is being given too much value, so we may want to ask why that is, is it because of something good being done by the company? Will this value increase in the future? What happended in the past when the share was given a high value? Of course the value will fall, but when will it fall? We need some reading here to judge the comapany.
 - If the current PERatio is at a minima, that means that the share is being given a lower value, again the same question arises, "why?". Look at the history a bit, see if the company has recovered such drops well in the past. If it was able to recover well, then maybe that stock should be bought, it has a good chance of giving you better return value.
@@ -43,7 +55,7 @@ A plot of the PERatio vs time.
 But that is not enough to judge a company, it should be coupled with Profit Growth.
 
 ---
-#### 6. Profit growth chart:
+#### Profit growth chart:
 A plot of the growth in profit over a time (generally 1yr, 3yr, 5yr)
 - This chart tells us how the company's profit has grown over the years. Hence we get an idea of the EPS as well, which in turn gives us an idea of the PERatio and the valuation chart of the company.
 
@@ -52,7 +64,11 @@ As the company keeps giving better and better profit growth, it increases the in
 If the  Profit growth of a company is increasing, but the P/E is not increasing then it means that the stock is not getting enough value as much as it deserves
 
 ---
-#### 7. 
+#### Book Value:
+
+
+
+
 
 #### Percentage Change
 It is the percent change in the price of a share from it's previous day's closing price
