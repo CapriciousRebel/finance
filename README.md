@@ -128,9 +128,12 @@ It is the trend over the years of a the said values
 - If the promoter holding is reducing and/or pledging is increasing, then it is a very very bad sign.
 
 ---
-#### Dll(Domestic Institutional Investors) Holdings:
+#### DII(Domestic Institutional Investors) and FII(Foreign Institutional Investors) Holdings:
 This category includes banks, insurance companies, mutual fund houses, etc. Basically experienced investors who manage pooled money for people.
 Clearly, a higher % of Dll Holding is a good sign since it shows that experienced people are trusting this company
+FII Play a huge role in the trend in which the company's stock prices and the overall indian market/economy will go towards.
+
+If the DII and FII Trends are increasing, such companies are the safest to invest into.
 
 --- 
 ### Public Holdings;
