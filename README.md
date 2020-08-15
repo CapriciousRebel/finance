@@ -95,14 +95,19 @@ PBRatio = StockPrice/BookValue
 ---
 #### Dividend Yield:
 It is the amount of cash a company gives back to it's shareholders per year.
-If a company gives a high dividend yield, it means that such a company has a confidence on it's stability, and it doesn't have a lot of ways to spend it's profits, say, in marketing or new aquisitions od companies or assets. Such companies might include Mining companies who have more or less monopoly over their mines. It's important to note that such companies might not show a good growth of share price over the years.
-On the other hand, the companies who face huge competition, have to spend their profits on advertisements, aqusitions, assets, technology, workforce, etc... Such companies give minimal dividend yield, but they might have a good growth of share price over time as well.
-There are also some companies who have a high sales growth, as well as a high dividend yield. Such companies dont require a lot of `IncrementalInvestments(Investing back the profits to get more profits)`. Given other factors are not bad, such companies are good companies to invest into.
+- If a company gives a high dividend yield, it means that such a company has a confidence on it's stability, and it doesn't have a lot of ways to spend it's profits, say, in marketing or new aquisitions od companies or assets. Such companies might include Mining companies who have more or less monopoly over their mines. It's important to note that such companies might not show a good growth of share price over the years, in fact the share price might go down as well.
+Such companies might be PSUs with a lot of cash. They must be bought only in the bad times, when market is in a bad state. Because one gets good cash appreciation on their income.
+- On the other hand, the companies who face huge competition, have to spend their profits on advertisements, aqusitions, assets, technology, workforce, etc... Such companies give minimal dividend yield, but they might have a good growth of share price over time as well.
+- There are also some companies who have a high sales growth, as well as a high dividend yield. Such companies **dont require** a lot of `IncrementalInvestments(Investing back the profits to get more profits)`. Given other factors are not bad, such companies are good companies to invest into.
 
 When deciding if a dividend yield should be given on a particular year, a company might consider thinking about better ways in which this money could have been used. Maybe investing it to start a new project, maybe to onvest in some other company, etc. A company wouldn't give dividend yield if they have better ways to earn returns on their profits (good returns = 10 - 12%)
 ```
 DividendYield% = (Dividend/SharePrice)*100
 ```
+
+---
+### Face Value:
+It is the price of the share written on the physical form of the share. Ignore this value, it has nothing to do with investing.
 
 --- 
 ### Technical Analysis:
