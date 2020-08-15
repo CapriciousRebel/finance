@@ -51,6 +51,8 @@ It is a measure of how much value people give to this share
 - Low P/E ratio means that the share is undervalued
 ```
 PERatio = SharePrice/EarningPerShare
+if(PERatio == 0):
+    Company.Profit < 0
 ```
 
 ---
@@ -75,9 +77,31 @@ If the  Profit growth of a company is increasing, but the P/E is not increasing 
 Book value is the value of all the assets owned by a company per share.
 It is important to not judge every company using BookValue itself, since book value only includes physical assets, like factory, cars, land, etc. only tangible assets are included. Employees are NOT included
 So a company who is a physical asset intensive company, like say a Cement, Power, Steel, Textile company or a Bank must be judged using it's book value.
-A company in, say, the tech sector is more employee intensive so their book value doesn't matter much.
+A company in, say, the tech sector is more employee intensive so their book value doesn't matter much. 
 ```
 BookValue = NetPriceOfAllAssets/NumberOfShares
+```
+
+---
+#### P/B (Price over BookValue) ratio:
+It is the ratio of the price of the stock over the bookvalue of the stock.
+It is a measure of how much value a specific type of share get's based on it's total asset costs
+- High P/B ratio means that the share is overvalued
+- Low  P/B ratio means that the share is undervalued
+```
+PBRatio = StockPrice/BookValue
+```
+
+---
+#### Dividend Yield:
+It is the amount of cash a company gives back to it's shareholders per year.
+If a company gives a high dividend yield, it means that such a company has a confidence on it's stability, and it doesn't have a lot of ways to spend it's profits, say, in marketing or new aquisitions od companies or assets. Such companies might include Mining companies who have more or less monopoly over their mines. It's important to note that such companies might not show a good growth of share price over the years.
+On the other hand, the companies who face huge competition, have to spend their profits on advertisements, aqusitions, assets, technology, workforce, etc... Such companies give minimal dividend yield, but they might have a good growth of share price over time as well.
+There are also some companies who have a high sales growth, as well as a high dividend yield. Such companies dont require a lot of `IncrementalInvestments(Investing back the profits to get more profits)`. Given other factors are not bad, such companies are good companies to invest into.
+
+When deciding if a dividend yield should be given on a particular year, a company might consider thinking about better ways in which this money could have been used. Maybe investing it to start a new project, maybe to onvest in some other company, etc. A company wouldn't give dividend yield if they have better ways to earn returns on their profits (good returns = 10 - 12%)
+```
+DividendYield% = (Dividend/SharePrice)*100
 ```
 
 --- 
