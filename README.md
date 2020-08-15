@@ -109,6 +109,23 @@ DividendYield% = (Dividend/SharePrice)*100
 ### Face Value:
 It is the price of the share written on the physical form of the share. Ignore this value, it has nothing to do with investing.
 
+---
+### Promoter Holding:
+It is the percentage of equity, the original owners of the company hold in it. Promoter holding in any private sector company must be high (`PromoterHolding% > 40%`). It shows the confidence of the owner of the company in the company.
+Exceptions:
+1. Professionally Managed Comapanies: Companies like ITC(`PromoterHolding = 0%`) are managed by many comapanies, so they dont have a single owner, but many owners, hence their promoter holding will be low.
+2. Banks: There is a limit on how much power a single person can have over a bank which is set by the RBI(regulating body for banks in India). So banks will have a lower promoter holding.
+
+---
+### Promoter Pledging:
+It is the percent of shares kept mortgage by the promoter. A promoter might have a shortage of money, and can keep thier shares of the company as mortgage with a bank who can give them a loan. More Promoter Pledging is a very bad sign
+
+---
+### Promoter Holding Pattern and Promoter Pledging Pattern:
+It is the trend over the years of a the said values
+- If the promoter holding is reducing and/or pledging is increasing, then it is a very very bad sign.
+
+
 --- 
 ### Technical Analysis:
 
