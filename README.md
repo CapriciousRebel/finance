@@ -1,6 +1,6 @@
 # Finance with the Rebel!
 
-## Stock Market Investment Jargons:
+## Stock Market
 
 ### Fundamental analysis:
 
@@ -13,10 +13,17 @@ MarketCap / TotalNumberOfShares = Price of one Share
 
 ---
 #### Enterprise Value:
-It is the actual value of a company. It can be negetive as well!
+It is the actual value of a company. It can be negetive as well, it is negetive when a compnay has more cash than its marketcap and debt combined, now this means that people are not giving enough value to this company(since `MarketCap = SharePrice * NoOfShares`). A research on such companies must be done to find out why it's shares dont have the value.
 ```
 EnterpriseValue = MarketCap + Debt - Cash
 ```
+
+---
+#### Standalone vs Consodilated:
+Standalone price of a company is the price of that company itself, it does not include the financial details of the company's subsidiaries or acquisitions.
+Eg. Tata owns Jaguar and LandRover, so if we look at Tata as a standalone company vs as a considilated, we se two different pictures.
+It is important to see the full picture, and one must look at the consodilated price of a stock.
+sometimes a company's standalone enterpirse value is -ve but it's consodilated value is +ve.
 
 ---
 #### SP (Share Price):
@@ -65,9 +72,16 @@ If the  Profit growth of a company is increasing, but the P/E is not increasing 
 
 ---
 #### Book Value:
+Book value is the value of all the assets owned by a company per share.
+It is important to not judge every company using BookValue itself, since book value only includes physical assets, like factory, cars, land, etc. only tangible assets are included. Employees are NOT included
+So a company who is a physical asset intensive company, like say a Cement, Power, Steel, Textile company or a Bank must be judged using it's book value.
+A company in, say, the tech sector is more employee intensive so their book value doesn't matter much.
+```
+BookValue = NetPriceOfAllAssets/NumberOfShares
+```
 
-
-
+--- 
+### Technical Analysis:
 
 
 #### Percentage Change
