@@ -197,7 +197,7 @@ Cash cycle tells us about the reputation of a company
 ---
 ### Corporate Actions:
 
-#### Stock Split:
+#### 1. Stock Split:
 A stock split is when a company multiplies the number of it's shares and divides the cost of it's shares.
 So if a company has 1Cr shares, and $100 per share, if it does a 1:2 split, the number of shares will become 2Cr and cost of each share will be $50 per share.
 ```
@@ -211,17 +211,26 @@ So if a company has 1Cr shares, and $100 per share, if it does a 1:2 split, the 
 
 Now this can have different effcts. It is possible that since the price is reduced, the demand may increase and also the price
 
-#### Bonus:
+#### 2. Bonus:
 A company gives bonus shares to it's shareholders, say a company does a 1:1 bonus then it's stockholders will get 1 share
 
 ```
 - Face Value   = FaceValue
+- Book Value   /= 2
 - NoOfShares   *= 2
 - CostPerShare /= 2
 - ShareCapital *= ShareCapital
 - TotalReserve /= 2
 - TotalShareholdersFund = TotalShareholdersFund
 ```
+
+#### 3. Rights issue:
+
+
+
+
+#### Profit and Loss statements vs Cash Flows:
+Profit and loss statements are not 100% accurate when it comes to the real picture. Say a company makes a sale today for $1000, then it is recorded by the accounting section, even though the actual money is yet to be received 
 
 --- 
 ### Technical Analysis:
