@@ -119,7 +119,7 @@ Exceptions:
 2. Banks: There is a limit on how much power a single person can have over a bank which is set by the RBI(regulating body for banks in India). So banks will have a lower promoter holding.
 
 ---
-###3 Promoter Pledging:
+#### Promoter Pledging:
 It is the percent of shares kept mortgage by the promoter. A promoter might have a shortage of money, and can keep thier shares of the company as mortgage with a bank who can give them a loan. More Promoter Pledging is a very bad sign
 
 ---
@@ -136,8 +136,92 @@ FII Play a huge role in the trend in which the company's stock prices and the ov
 If the DII and FII Trends are increasing, such companies are the safest to invest into.
 
 --- 
-### Public Holdings;
+#### Public Holdings:
 This is simply the normal public's investement in the company
+
+--- 
+---
+#### PAT margin (net margin) and Profit Markup:
+It is the net profit margin calculated on the `Selling Price`.
+For example, I buy a pen for $10 and sell it for $15, then my PAT Margin will be ((15-10)/15) * 100
+```
+PATMargin = ((SellingPrice - CostPrice - Expenses - Taxes)/SellingPrice)*100
+```
+It's important to note that Profit Margin and Profit Markup are two different things. 
+Profit Markup is calculated on `Cost Price`:
+```
+ProfitMarkup = ((SellingPrice - CostPrice - Expenses - Taxes)/CostPrice)*100
+```
+
+**Profit margin is not enough to judge a company:**
+Say I have a profit margin of 50% on my products but I sell 10 products
+Meanwhile my competition has a 20% margin but they sell 100 products, so clearly they have a better bussiness model
+
+---
+#### ROE(Return on equity):
+It is the total return the company gave on the initial investment. Say I start a company, with a total investemnt of $100 (say I got all this in form of equity from self, friends, family), Then I did bussiness, and my company value became $120 by the end of the year. So my return on equity is 20%
+```
+ROE = ((CurrentEquityValue - InvestedEquityValue)/InvestedequityValue)*100
+```
+
+ROE is one of the most important ratios to consider in finance. it is literally the % gain one got on their initial investments.
+
+**Important:** ROE only considers initial invested equity value, hence it is possible to increase the ROE simply by taking Debt (a debt twice of the equity is often taken by the company). It might be good for the company, but it is a bad idea to invest in companies with debt. As an investor, one must not buy shares in a debt ridden company. It's important to see the debt/equity ratio of a company when buying into it.
+
+#### Debt/Equity Ratio:
+It is the ratio of the current debt and current shareholder equity.
+```
+DebtEquityRatio = (Debt/equity)*100
+```
+This ratio should be as small as possible when buying a safe stock
+
+**Note:** This ratio is irrelevant for Banks, finance companies, lenders, etc. because it is their job to take money from people and give debt to people.
+
+---
+#### Asset turnover:
+It is the efficiency of a company essentially, basically it measures the total profit a company got out it's assets. For example, if I have a car company, then muy asset turnover will be more if I use my car more to gain money.
+```
+AssetTurnover = ProfitsFromAnAsset/CostOfTheAsset
+```
+Asset turnover must be high.
+
+---
+#### Cash Cycle:
+It is basically a measure of the effectiveness of a company. It tells us about the number of days a company needs to convert it's investments into profits. So if I want to sell a product, I will give the product today, but take the payment tomorrow, then my Cash Cycle will be 1 day.
+```
+CashCycle = DayOnWhichIAmPaid - DayOnWhichIDevliveredMyProduct
+```
+Cash Cycle must be as small as possible (-ve is preffered)
+Cash cycle tells us about the reputation of a company
+
+---
+### Corporate Actions:
+
+#### Stock Split:
+A stock split is when a company multiplies the number of it's shares and divides the cost of it's shares.
+So if a company has 1Cr shares, and $100 per share, if it does a 1:2 split, the number of shares will become 2Cr and cost of each share will be $50 per share.
+```
+- Face Value   /= 2
+- NoOfShares   *= 2
+- CostPerShare /= 2
+- ShareCapital = ShareCapital
+- TotalReserve = TotalReserve
+- TotalShareholdersFund = TotalShareholdersFund
+```
+
+Now this can have different effcts. It is possible that since the price is reduced, the demand may increase and also the price
+
+#### Bonus:
+A company gives bonus shares to it's shareholders, say a company does a 1:1 bonus then it's stockholders will get 1 share
+
+```
+- Face Value   = FaceValue
+- NoOfShares   *= 2
+- CostPerShare /= 2
+- ShareCapital *= ShareCapital
+- TotalReserve /= 2
+- TotalShareholdersFund = TotalShareholdersFund
+```
 
 --- 
 ### Technical Analysis:
